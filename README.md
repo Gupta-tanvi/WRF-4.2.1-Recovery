@@ -2,7 +2,7 @@
 This folder consists of the model changes and input files required for calculating recovery processes through NWP model: WRF-V4.2.1.
 
 
-The following files contain the model changes:
+Following files contain the model changes:
 1) module_wind_fitch.F: 
 2) module_bl_mynn.F
 3) module_pbl_driver.F
