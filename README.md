@@ -15,6 +15,6 @@ Following files are used for model input:
 3) wind-turbines-1.tbl
 
 Please note that to calculate speed at 84M (turbine hub-height), use the variables U At 84M and V AT 84M. The wind-turbine-1.tbl file is over written in the code.
-
+The input files (windturbines-ij.txt and wind-turbines-1.tbl) are sample files for WF case: inter-turbine spacing 0.5 km.
 
 
