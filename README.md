@@ -7,7 +7,7 @@ Following files contain the model changes:
 2) module_bl_mynn.F
 3) module_pbl_driver.F
 4) module_first_rk_step_part1.F
-5) registry_EM.commmon
+5) Registry.EM_COMMON
 
 Following files are used for model input:
 1) namelist.input
